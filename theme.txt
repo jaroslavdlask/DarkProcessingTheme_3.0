@@ -11,7 +11,7 @@
 status.font =            processing.sans,plain,13
 
 status.error.fgcolor =   #ffffff
-status.error.bgcolor =   #777777
+status.error.bgcolor =   #353B45
 
 status.warning.bgcolor = #ffffff
 status.warning.fgcolor = #FFFFFF
@@ -27,14 +27,14 @@ status.url.fgcolor =     #cccccc
 header.text.font =             processing.sans,bold,14
 
 # background behind tabs
-header.gradient.top =          #333333
-header.gradient.bottom =       #333333
+header.gradient.top =          #21252B
+header.gradient.bottom =       #21252B
 
 # actual tabs themselves
-header.tab.selected.color =    #777777
+header.tab.selected.color =    #4E5565
 header.text.selected.color =   #ffffff
 
-header.tab.unselected.color =  #555555
+header.tab.unselected.color =  #353B45
 header.text.unselected.color = #ffffff
 
 # little vertical line if a tab has been modified but not saved
@@ -49,11 +49,11 @@ footer.text.font =             processing.sans,bold,12
 footer.text.selected.color =   #ffffff
 footer.text.unselected.color = #ffffff
 
-footer.gradient.top =          #333333
-footer.gradient.bottom =       #333333
+footer.gradient.top =          #21252B
+footer.gradient.bottom =       #21252B
 
-footer.tab.selected.color =    #777777
-footer.tab.unselected.color =  #555555
+footer.tab.selected.color =    #353B45
+footer.tab.unselected.color =  #353B45
 
 footer.tab.arrow.color =       #ffffff
 
@@ -70,8 +70,8 @@ console.error.color =  #cc9900
 
 
 # TOOLBAR
-toolbar.gradient.top =    #333333
-toolbar.gradient.bottom = #333333
+toolbar.gradient.top =    #21252B
+toolbar.gradient.bottom = #21252B
 
 
 # TOOLBAR BUTTONS
@@ -79,8 +79,8 @@ toolbar.gradient.bottom = #333333
 buttons.bgcolor =           #000000
 
 # for the debug and mode buttons
-#reversed.gradient.top =    #555555
-#reversed.gradient.bottom = #555555
+#reversed.gradient.top =    #353B45
+#reversed.gradient.bottom = #353B45
 
 toolbar.rollover.font =     processing.sans,bold,12
 toolbar.rollover.color =    #ffffff
@@ -101,7 +101,7 @@ mode.outline.color =    #A8ADB2
 # colors are (sadly) set using image files - updated ones
 # are in the included "status" folder
 divider.height =            9
-divider.color =             #777777
+divider.color =             #4E5565
 divider.dot.diameter =      3
 divider.dot.color =         #505050
 
@@ -116,28 +116,28 @@ divider.dot.color =         #505050
 
 # the actual code window itself (bg) and the code color (fg)
 editor.fgcolor =                    #ffffff
-editor.bgcolor =                    #333333
+editor.bgcolor =                    #21252B
 
 # highlight for the current line
-editor.linehighlight.color =        #555555
+editor.linehighlight.color =        #353B45
 editor.linehighlight =              true
 
 editor.caret.color =                #ffffff
 editor.selection.color =            #ffcc00
 
 # background of line number column
-editor.gradient.top =               #333333
-editor.gradient.bottom =            #333333
+editor.gradient.top =               #21252B
+editor.gradient.bottom =            #21252B
 
 # other settings for line number column (aka the "gutter")
 editor.gutter.text.font =           processing.mono,bold,12
-editor.gutter.bgcolor =             #333333
+editor.gutter.bgcolor =             #21252B
 editor.gutter.text.color =          #cccccc
-editor.gutter.linehighlight.color = #555555
+editor.gutter.linehighlight.color = #353B45
 
 # bracket/brace highlighting
 editor.brackethighlight =           true
-editor.brackethighlight.color =     #777777
+editor.brackethighlight.color =     #353B45
 
 
 
