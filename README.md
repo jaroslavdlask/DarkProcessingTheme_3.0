@@ -1,4 +1,3 @@
-Screenshot
 ![screenshot](https://github.com/jaroslavdlask/DarkProcessingTheme_3.0/blob/master/new-dark-colours.png)
 
 Dark Processing Theme (for 3.0)
